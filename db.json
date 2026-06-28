@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "project_title": "Horizon_Tech Gallery",
+      "project_description": "Horizon_Tech Gallery - Professional Gallery Web App created using HTML , CSS and JavaScript with indexdb for storing data within browser.",
+      "project_logo_path": "https://akshat-881236.github.io/HorizonTechX_Gallery/logo.svg",
+      "project_url": "https://akshat-881236.github.io/HorizonTechX_Gallery/",
+      "git_repo_url": "https://github.com/Akshat-881236/HorizonTechX_Gallery/",
+      "start_at": "06/08/2026",
+      "end_at": "06/13/2026"
+    },
+    {
+      "project_title": "HorizonTechX Simple Calculator",
+      "project_description": "A sleek and modern calculator app built with HTML, CSS, and JavaScript. Features a dark mode theme and responsive design for all devices.",
+      "project_logo_path": "https://akshat-881236.github.io/HorizonTechX_SimpleCalculator/favicon.svg",
+      "project_url": "https://akshat-881236.github.io/HorizonTechX_SimpleCalculator/",
+      "git_repo_url": "https://github.com/Akshat-881236/HorizonTechX_SimpleCalculator/",
+      "start_at": "06/15/2026",
+      "end_at": "06/20/2026"
+    },
+    {
+      "project_title": "NovaPlay Suite - Immersive Audio OS",
+      "project_description": "NovaPlay Suite is an immersive audio OS and advanced album management system developed by Akshat Prasad. Explore your local vault, loved tracks, and studio previews seamlessly.",
+      "project_logo_path": "https://akshat-881236.github.io/HorizonTechX_NovaPlaySuite/novaplay.svg",
+      "project_url": "https://akshat-881236.github.io/HorizonTechX_NovaPlaySuite/",
+      "git_repo_url": "https://github.com/Akshat-881236/HorizonTechX_NovaPlaySuite/",
+      "start_at": "06/18/2024",
+      "end_at": "06/25/2024"
+    }
+  ]
+}
